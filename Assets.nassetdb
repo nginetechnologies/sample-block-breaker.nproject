@@ -1,0 +1,317 @@
+{
+    "123f345e-1dc7-48de-9793-383c4c059fdc": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "sample-block_breaker.nproject",
+        "thumbnail": "c94df5d6-ad78-495a-9711-87cb2aae123a"
+    },
+    "34b7dbaf-2c15-0ee4-1123-b70ad0492d05": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Block_Breaker.scene.nasset/SM_Side_Piece_14.010.scene.nasset/SM_Side_Piece_14.010.scene.nasset"
+    },
+    "17dd7255-8e7a-8910-2f7f-3879868ff0b4": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Proxy.mtli.nasset"
+    },
+    "6ed56411-f932-4dc8-a5e1-e95f8632a5bd": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Bricks/CyanBrick.scene.nasset"
+    },
+    "0cf712fb-586a-7131-cee3-4d532a189cc5": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Block_Breaker.scene.nasset/SM_Side_Piece_14.013.scene.nasset/SM_Side_Piece_14.013.scene.nasset"
+    },
+    "699684be-374e-41fc-b502-bdbedbcb302d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/SaschaRef/Prefiltered.tex.nasset"
+    },
+    "d66df706-8b67-4cbf-8495-0342b240e297": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/PlayerPad/PlayerPad.scene.nasset"
+    },
+    "12427f96-5965-cee2-4bba-90f183774b4d": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Block_Breaker.scene.nasset/SM_Side_Piece_14.005.scene.nasset/SM_Side_Piece_14.005.scene.nasset"
+    },
+    "36c6f203-d0cc-1957-342d-0d8e9408de52": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Block_Breaker.scene.nasset/SM_Side_Piece_14.012.scene.nasset/SM_Side_Piece_14.012.scene.nasset"
+    },
+    "e48d3f4e-e75e-8dcd-8948-f1a6f5964dcc": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Hex_Floor_D.tex.nasset"
+    },
+    "2bce97e5-0497-4bd7-87c8-7f6928e8fe37": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/SaschaRef/Brdf.tex.nasset"
+    },
+    "b3b63b9f-bb54-4cc9-2d87-14a063f8cf02": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Block_Breaker.scene.nasset/SM_Player_Proxy.mesh.nasset"
+    },
+    "d445c3da-80ff-8a6e-80d4-03d9e69a4b09": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Block_Breaker.scene.nasset/SM_Player.scene.nasset/M_Green.mesh.nasset"
+    },
+    "a5f4d0b3-d50b-49e3-bd97-401fb874c2a5": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Bricks/YellowBrick.scene.nasset"
+    },
+    "2cdae46f-639b-e9cb-3377-b080883b89c9": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Block_Breaker.scene.nasset/SM_Side_Piece_14.007.scene.nasset/SM_Side_Piece_14.007.scene.nasset"
+    },
+    "822ba590-9285-4675-17ce-089c817b01f0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Block_Breaker.scene.nasset/SM_Brick_Red.mesh.nasset"
+    },
+    "c6e6f45e-2ab7-4bc3-a006-04f8bb0e46cb": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Bricks/RedBrick.scene.nasset"
+    },
+    "7d1adeb2-afe2-5950-ebee-26b253438ce9": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Block_Breaker.scene.nasset/SM_Side_Piece_14.008.scene.nasset/SM_Side_Piece_14.008.scene.nasset"
+    },
+    "241797eb-9788-69a5-99a8-9f3370f77168": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Metal_Dark.mtli.nasset"
+    },
+    "7317f785-dd5a-4ff2-a0b9-8b643eebfc96": {
+        "assetTypeGuid": "dda212f1-b3e6-406b-b801-2079d4a65561",
+        "path": "Assets/Physics Materials/NoBounce.physmat.nasset"
+    },
+    "8a59e689-821e-d053-5928-bab3f90891f8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Block_Breaker.scene.nasset/SM_Brick_Green.mesh.nasset"
+    },
+    "71a08239-f46f-f004-85c3-0147c2171be3": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Block_Breaker.scene.nasset/SM_Pillar_05.scene.nasset/SM_Pillar_05.scene.nasset"
+    },
+    "c1f36767-844f-1ec6-1279-62b5c8c0e977": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Hex_Floor.mtli.nasset"
+    },
+    "1e6a8b17-1553-2e91-bac1-831f88ff1537": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Black.mtli.nasset"
+    },
+    "00046e4b-c5a0-1d1c-2779-424250d5d502": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Metal.mtli.nasset"
+    },
+    "d54d7a2b-3923-44a0-9de4-d71b080f5414": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/SaschaRef/Irradiance.tex.nasset"
+    },
+    "d11fe76c-3efa-0f27-eb5e-0e8729c54c66": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Red.mtli.nasset"
+    },
+    "64e6e87f-bce0-5c78-c9dd-7aa40b9ba830": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Block_Breaker.scene.nasset/Block_Breaker.scene.nasset"
+    },
+    "5f22fcdd-9117-439f-8541-00b3e9638e7c": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Bricks/PurpleBrick.scene.nasset"
+    },
+    "e27339fc-6d87-2d19-d182-f05cb0955b9e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Block_Breaker.scene.nasset/SM_Side_Piece_14.001.scene.nasset/M_Metal-2.mesh.nasset"
+    },
+    "3e0a6d76-d4e5-4813-884e-c58d1557e869": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/PlayerBall/PlayerBall.scene.nasset"
+    },
+    "58fe23a4-5088-1e99-b4b0-b8ca3ae174ff": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Block_Breaker.scene.nasset/SM_Brick_Yellow.mesh.nasset"
+    },
+    "a8fcc5f8-9295-c85b-2d42-9dd118a8908a": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Block_Breaker.scene.nasset/SM_Pillar_02.scene.nasset/SM_Pillar_02.scene.nasset"
+    },
+    "b23ae2b3-432e-f5c7-69b6-0655062f1d09": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Block_Breaker.scene.nasset/SM_Hex_Floor.001.mesh.nasset"
+    },
+    "0ba180bc-83dc-6ce3-1229-f0b664a4886c": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Block_Breaker.scene.nasset/SM_Side_Piece_14.003.scene.nasset/SM_Side_Piece_14.003.scene.nasset"
+    },
+    "df829fd7-3047-b303-1c93-de87ecd424c8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Block_Breaker.scene.nasset/SM_Pillar_02.scene.nasset/M_Metal_Dark.mesh.nasset"
+    },
+    "ae7e2dff-f1bf-2b0a-e467-1a80f84852ce": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Block_Breaker.scene.nasset/SM_Side_Piece_14.001.scene.nasset/SM_Side_Piece_14.001.scene.nasset"
+    },
+    "924ea033-37d6-e0de-e7a2-2a4792e1ec05": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Block_Breaker.scene.nasset/SM_Pillar_02.scene.nasset/M_Metal.mesh.nasset"
+    },
+    "d9a0da82-a499-e709-4a65-2b7b75a09493": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Block_Breaker.scene.nasset/SM_Brick_Cyan.mesh.nasset"
+    },
+    "e73dcdf6-53b1-ed33-d9e6-7ebe582ceccc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Block_Breaker.scene.nasset/SM_Player.scene.nasset/M_Red.mesh.nasset"
+    },
+    "f8cca9fe-2375-4ee6-c747-3b3127748fea": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Block_Breaker.scene.nasset/SM_Side_Piece_14.002.scene.nasset/SM_Side_Piece_14.002.scene.nasset"
+    },
+    "6e90f687-286e-4ba5-a786-1e73a45b79a2": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Bricks/BlackBrick.scene.nasset"
+    },
+    "151b2027-0797-fa9f-e091-1aa3cd556637": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Block_Breaker.scene.nasset/SM_Pillar_03.scene.nasset/SM_Pillar_03.scene.nasset"
+    },
+    "f22d9f03-10c3-8502-3df9-4ce5d578fb2b": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Block_Breaker.scene.nasset/SM_Pillar_04.scene.nasset/SM_Pillar_04.scene.nasset"
+    },
+    "65c0a00c-5cbd-4fab-9295-2f89ac69a1ab": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Block_Breaker.scene.nasset/SM_Side_Piece_14.011.scene.nasset/SM_Side_Piece_14.011.scene.nasset"
+    },
+    "0983d25e-f844-2b76-1216-db280610c05c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Block_Breaker.scene.nasset/SM_Wall_Proxy_01.mesh.nasset"
+    },
+    "530648dc-4bc3-466a-b98f-785683abc773": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Bricks/GreenBrick.scene.nasset"
+    },
+    "22ba4c52-6c65-8a31-ba27-d55be4c1e4aa": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Yellow.mtli.nasset"
+    },
+    "6c0ac927-2948-66ae-ad80-b3b3a793572a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Block_Breaker.scene.nasset/SM_Brick_Black.mesh.nasset"
+    },
+    "1432189d-9694-6137-d283-f7a87d05c502": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Block_Breaker.scene.nasset/SM_Side_Piece_14.001.scene.nasset/M_Metal_Dark-2.mesh.nasset"
+    },
+    "c9edfea6-2592-6dd6-5040-5e0e10fa008a": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Block_Breaker.scene.nasset/SM_Side_Piece_14.015.scene.nasset/SM_Side_Piece_14.015.scene.nasset"
+    },
+    "309055bc-4216-49d1-9de3-7b43adaec6e7": {
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Block Breaker.scene.nasset"
+    },
+    "530d0e40-ff3d-f641-3396-a1e8b560ae14": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Blue.mtli.nasset"
+    },
+    "a8569c61-cef5-2169-4425-ce5dd8133ed7": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Block_Breaker.scene.nasset/SM_Side_Piece_14.004.scene.nasset/SM_Side_Piece_14.004.scene.nasset"
+    },
+    "d2f11534-961b-b9d5-aeda-39a1cbcd5708": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Block_Breaker.scene.nasset/SM_Brick_Purple.mesh.nasset"
+    },
+    "78cfaf82-23d0-d018-e267-79d8da917c98": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Green.mtli.nasset"
+    },
+    "9b9a1d7d-e613-4025-82fb-e43b696e69df": {
+        "assetTypeGuid": "dda212f1-b3e6-406b-b801-2079d4a65561",
+        "path": "Assets/Physics Materials/NoFriction.physmat.nasset"
+    },
+    "c94df5d6-ad78-495a-9711-87cb2aae123a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Breaker_Thumb.tex.nasset"
+    },
+    "3ca54701-dbfb-4989-482b-57e6b32da7b9": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Block_Breaker.scene.nasset/SM_Side_Piece_14.006.scene.nasset/SM_Side_Piece_14.006.scene.nasset"
+    },
+    "09486cf3-36cc-fe83-6e87-a951112852da": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Cyan.mtli.nasset"
+    },
+    "fde9e09d-3a06-1450-e977-ea1b03e6f39e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Block_Breaker.scene.nasset/SM_Wall_Proxy_02.mesh.nasset"
+    },
+    "a204dbeb-7d67-4ef5-e8a8-3c47400fb739": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/Block_Breaker.scene.nasset/SM_Player.scene.nasset/M_Blue.mesh.nasset"
+    },
+    "91e3b8dc-2da0-5c55-e6d4-2c2b6f9b3995": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Block_Breaker.scene.nasset/SM_Player.scene.nasset/SM_Player.scene.nasset"
+    },
+    "f3dbe9b8-492b-a656-09a2-61978e3a4d31": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Purple.mtli.nasset"
+    },
+    "c42f3f74-ac48-304b-190f-6b5e0a9747fa": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Block_Breaker.scene.nasset/SM_Side_Piece_14.009.scene.nasset/SM_Side_Piece_14.009.scene.nasset"
+    },
+    "67bbd128-99b9-dafe-da07-8319892005c5": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/Block_Breaker.scene.nasset/SM_Side_Piece_14.014.scene.nasset/SM_Side_Piece_14.014.scene.nasset"
+    }
+}
