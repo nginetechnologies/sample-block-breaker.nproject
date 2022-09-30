@@ -13,7 +13,6 @@
     "library_directory": "lib",
     "thumbnail_guid": "c94df5d6-ad78-495a-9711-87cb2aae123a",
     "default_scene": "309055bc-4216-49d1-9de3-7b43adaec6e7",
-    "repository": "https://github.com/nginetechnologies/ngine-samples/tree/master/Block_Breaker.nproject",
     "source": "Block_Breaker.nproject",
     "settings": {
         "5ED68A2E-C9AF-454F-AD1E-416044E6498A": {
