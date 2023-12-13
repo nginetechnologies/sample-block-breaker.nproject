@@ -1,6 +1,7 @@
 {
     "name": "Block_Breaker",
     "guid": "123f345e-1dc7-48de-9793-383c4c059fdc",
+    "database_guid": "bdbfa6df-5289-7aa9-e5a4-fa602ef03c1b",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
@@ -13,6 +14,7 @@
     "library_directory": "lib",
     "thumbnail_guid": "c94df5d6-ad78-495a-9711-87cb2aae123a",
     "default_scene": "309055bc-4216-49d1-9de3-7b43adaec6e7",
+    "tags": [ "5f1de2fb-690d-4f75-bbc3-b5e83a5d08d9" ],
     "source": "Block_Breaker.nproject",
     "settings": {
         "5ED68A2E-C9AF-454F-AD1E-416044E6498A": {

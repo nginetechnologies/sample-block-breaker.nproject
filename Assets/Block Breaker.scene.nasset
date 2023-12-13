@@ -1,244 +1,1980 @@
 {
-	"guid": "309055bc-4216-49d1-9de3-7b43adaec6e7",
-	"typeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-	"instanceGuid": "9D5B6E31-419E-4E47-B932-03DD8BA97932",
-	"2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
-		"radius": 4096.0
-	},
-	"data_components": [{
-		"typeGuid": "0455f986-7570-415b-ad74-3902eb4f9b2c"
-	}],
-	"children": [{
-                    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-                    "instanceGuid": "007ee408-9c9e-7c60-7f9e-f7938ba3280c",
-                    "data_components": [
-                        {
-                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                            "templateInstanceGuid": "007ee408-9c9e-7c60-7f9e-f7938ba3280c"
-                        },
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "GRP_Block_Breaker"
-                        }
-                    ],
-                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                        "scene": "64e6e87f-bce0-5c78-c9dd-7aa40b9ba830"
+    "guid": "bc14c98f-f780-4219-8ef1-ae756cb57ff5",
+    "typeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+    "instanceGuid": "caa63f87-c8d8-dd3c-241f-3e54fcba029e",
+    "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
+        "radius": 4096.0
+    },
+    "data_components": [
+        {
+            "typeGuid": "64215a37-64a6-45bd-ba87-10abe74da0f9"
+        },
+        {
+            "typeGuid": "05a7011d-a220-49f2-98df-81b32be3c0fd",
+            "camera_settings": {
+                "typeGuid": "9ae0e145-86b4-4e47-afda-697bbd008922",
+                "9ae0e145-86b4-4e47-afda-697bbd008922": {
+                    "fieldOfView": 60.0,
+                    "nearPlane": 0.1,
+                    "farPlane": 128.0
+                }
+            },
+            "transform": {
+                "position": [
+                    -11.9447,
+                    -12.9776,
+                    12.8029
+                ],
+                "rotation": [
+                    -33.7542,
+                    -0.0,
+                    -48.699
+                ]
+            },
+            "grid_settings": {
+                "typeGuid": "ecc5ac5d-5450-4808-97b1-e25d91462d96",
+                "ecc5ac5d-5450-4808-97b1-e25d91462d96": {
+                    "transform": {
+                        "scale": [
+                            -1.0,
+                            -1.0,
+                            1.0
+                        ]
                     }
+                }
+            }
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "135378a2-8afd-97c9-4f08-fe69ef5a8cdf",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pillar 02"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.7999,
+                    1.9999,
+                    0.133
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4123e198-88a7-cb31-717b-42cc40b63b06"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f63eea8b-742c-4b9f-937a-ace6c2fefe1b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pillar 03"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.7999,
+                    1.9999,
+                    0.133
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4123e198-88a7-cb31-717b-42cc40b63b06"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c720ad30-9f0d-bcf8-0a6f-031eaadb39c5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pillar 04"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.7999,
+                    -2.0,
+                    0.133
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4123e198-88a7-cb31-717b-42cc40b63b06"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8a969e91-c481-0a12-f21b-ca88b8b760ae",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pillar 05"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.7999,
+                    -2.0,
+                    0.133
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4123e198-88a7-cb31-717b-42cc40b63b06"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2fe7d942-6ac9-3dce-b9ac-2663a628b92e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Green"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.3999,
+                    1.45,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "fb1a13dd-c4b0-c38f-5209-39299d3b614e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "cfa7f9eb-6d80-1690-b1d8-3186ebf3e12f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Purple"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.5999,
+                    1.45,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4d06f615-3400-d6f6-bcb9-3f0b93155e37"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6e94f44f-f88d-742f-6438-6f7b414928ca",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Black"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.8,
+                    1.45,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9c2437bf-41ae-1f87-4321-8cb9639ff8d1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d33f9276-08d6-d64f-f8ea-08158ac35e83",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Yellow"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.9999,
+                    1.45,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e22484f7-7187-0da9-45f8-8b5f9960585a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e24d4f03-2ec8-2784-6886-e2e446e354ad",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Red"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.1999,
+                    1.45,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "bcd388ea-ce05-c33c-15aa-2ec0c797652d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e6650b87-3132-4f02-5fed-0e576a7ac1e9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Cyan"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.4,
+                    1.45,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "af01ef29-2a77-2bf1-52da-171985e6a199"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b57d823d-631b-616b-85db-2576b83e2a03",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Player"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "7e2348ef-9126-3980-409f-c5f7fc0aa6de"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "75ec2c93-85a8-d2f4-815c-cb7cd97d1132",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex Floor"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "87e976cc-2afb-837e-e54d-6e5f5d3a2ac8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0aedafc8-80dd-a72c-0aee-36eed3215df0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Side Piece 14.001"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.25,
+                    2.0,
+                    0.2
+                ],
+                "rotation": [
+                    0.0,
+                    -0.0,
+                    89.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "296e6f3c-8ac5-8f95-214d-0c046c062c28"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "553009c8-0528-5dd9-c837-f88a27a626b6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Side Piece 14.002"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    1.3942,
+                    2.0,
+                    0.1999
+                ],
+                "rotation": [
+                    0.0,
+                    -0.0,
+                    89.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "296e6f3c-8ac5-8f95-214d-0c046c062c28"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b0870cd1-b5b2-094d-e29e-69476a85f31a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Side Piece 14.003"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.5466,
+                    2.0,
+                    0.1999
+                ],
+                "rotation": [
+                    0.0,
+                    -0.0,
+                    89.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "296e6f3c-8ac5-8f95-214d-0c046c062c28"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b19f4c10-6516-e4c6-bf70-1b24ae6d35a1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Side Piece 14.004"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.3508,
+                    2.0,
+                    0.1999
+                ],
+                "rotation": [
+                    0.0,
+                    -0.0,
+                    89.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "296e6f3c-8ac5-8f95-214d-0c046c062c28"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c9d953f9-f61e-0f28-f8d5-accfa1cd3b6f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Side Piece 14.005"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.25,
+                    2.0,
+                    0.1999
+                ],
+                "rotation": [
+                    0.0,
+                    -0.0,
+                    89.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "296e6f3c-8ac5-8f95-214d-0c046c062c28"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2018b159-9143-5241-7370-0886b49bcc89",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Side Piece 14.006"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.2499,
+                    -2.0,
+                    0.2
+                ],
+                "rotation": [
+                    0.0,
+                    -0.0,
+                    89.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "296e6f3c-8ac5-8f95-214d-0c046c062c28"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b4c9ce35-a747-ea46-e5ea-aa5055d311e5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Side Piece 14.007"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    1.3942,
+                    -2.0,
+                    0.2
+                ],
+                "rotation": [
+                    0.0,
+                    -0.0,
+                    89.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "296e6f3c-8ac5-8f95-214d-0c046c062c28"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "fe6b9aea-98f4-abc1-fe47-6855fd06438a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Side Piece 14.008"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.5466,
+                    -2.0,
+                    0.2
+                ],
+                "rotation": [
+                    0.0,
+                    -0.0,
+                    89.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "296e6f3c-8ac5-8f95-214d-0c046c062c28"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e1d5d997-db13-e7c2-1858-12d2df605ed5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Side Piece 14.009"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.3508,
+                    -2.0,
+                    0.2
+                ],
+                "rotation": [
+                    0.0,
+                    -0.0,
+                    89.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "296e6f3c-8ac5-8f95-214d-0c046c062c28"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d9b73d75-9787-9068-a6b7-cd1dbae45fe0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Side Piece 14.010"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.25,
+                    -2.0,
+                    0.2
+                ],
+                "rotation": [
+                    0.0,
+                    -0.0,
+                    89.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "296e6f3c-8ac5-8f95-214d-0c046c062c28"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2ffe435d-6901-e657-cf81-5ba361da2579",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Side Piece 14.011"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.7999,
+                    1.5146,
+                    0.1999
+                ],
+                "rotation": [
+                    -0.0,
+                    0.0,
+                    -179.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "296e6f3c-8ac5-8f95-214d-0c046c062c28"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d2264095-54ef-492c-ab91-0122a742e9ad",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Side Piece 14.012"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.7999,
+                    -1.5033,
+                    0.1999
+                ],
+                "rotation": [
+                    -0.0,
+                    0.0,
+                    -179.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "296e6f3c-8ac5-8f95-214d-0c046c062c28"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c93e97b9-f777-d31e-32b4-f0fb9ad9732c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Side Piece 14.013"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.7999,
+                    0.7752,
+                    0.1999
+                ],
+                "rotation": [
+                    -0.0,
+                    0.0,
+                    -179.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "296e6f3c-8ac5-8f95-214d-0c046c062c28"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5d9e9a06-fb83-feef-a0b8-2cb7a4a30a20",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Side Piece 14.014"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.7999,
+                    -0.0,
+                    0.1999
+                ],
+                "rotation": [
+                    -0.0,
+                    0.0,
+                    -179.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "296e6f3c-8ac5-8f95-214d-0c046c062c28"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4908ddfb-2966-ce4e-fb5e-5bf3a6bbfdc3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Side Piece 14.015"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.7999,
+                    -0.7823,
+                    0.1999
+                ],
+                "rotation": [
+                    -0.0,
+                    0.0,
+                    -179.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "296e6f3c-8ac5-8f95-214d-0c046c062c28"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c7ba4bb3-a543-447b-ff43-ac5ff7e50697",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Black.001"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.7999,
+                    1.1606,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9c2437bf-41ae-1f87-4321-8cb9639ff8d1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9d7bcfac-d7d4-c91c-ab21-69a64feb2e0d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Black.002"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.7999,
+                    0.8712,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9c2437bf-41ae-1f87-4321-8cb9639ff8d1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8752fb5c-37f9-f244-ddd7-339350b75676",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Black.003"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.7999,
+                    0.5818,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9c2437bf-41ae-1f87-4321-8cb9639ff8d1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "baa04987-3b54-1427-ccd7-b66346c5a021",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Black.004"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.7999,
+                    0.2925,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9c2437bf-41ae-1f87-4321-8cb9639ff8d1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b31f502c-0392-91a8-bf7f-03625fb2bed9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Black.005"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.7999,
+                    0.0031,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9c2437bf-41ae-1f87-4321-8cb9639ff8d1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "13813fea-3060-51b3-b79f-4fb493ae1140",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Black.006"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.7999,
+                    -0.2862,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9c2437bf-41ae-1f87-4321-8cb9639ff8d1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "92c46c21-dcd2-9581-0390-6c44a33fe228",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Black.007"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.7999,
+                    -0.5755,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9c2437bf-41ae-1f87-4321-8cb9639ff8d1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "32526425-5cfb-d6e4-d21e-cd9bf7f1a306",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Black.008"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.7999,
+                    -0.8649,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9c2437bf-41ae-1f87-4321-8cb9639ff8d1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "914645f9-7b55-a164-4960-1ac1b8217fb7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Black.009"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.7999,
+                    -1.1543,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9c2437bf-41ae-1f87-4321-8cb9639ff8d1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "64ebad1f-32a4-2445-3ef0-055f284c5dc2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Black.010"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.7999,
+                    -1.4436,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9c2437bf-41ae-1f87-4321-8cb9639ff8d1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8d434548-631a-39ab-0a09-b1ae4b64b749",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Cyan.001"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.4,
+                    1.1606,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "af01ef29-2a77-2bf1-52da-171985e6a199"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8067175c-2951-38f2-0186-383524eaf3ca",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Cyan.002"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.4,
+                    0.8712,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "af01ef29-2a77-2bf1-52da-171985e6a199"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3ccfa7fa-ea67-c924-b62a-254c8dd234ab",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Cyan.003"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.4,
+                    0.5818,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "af01ef29-2a77-2bf1-52da-171985e6a199"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f89b6229-efda-97f7-5822-3bdd95eed50b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Cyan.004"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.4,
+                    0.2925,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "af01ef29-2a77-2bf1-52da-171985e6a199"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "65dc68cf-c2e8-000b-425c-6e552bee1f68",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Cyan.005"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.4,
+                    0.0031,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "af01ef29-2a77-2bf1-52da-171985e6a199"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3d933734-c003-a69f-e49d-cfe5e9c29726",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Cyan.006"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.4,
+                    -0.2862,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "af01ef29-2a77-2bf1-52da-171985e6a199"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f07a7aa3-ce1e-93aa-88be-42bdc7be9dbc",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Cyan.007"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.4,
+                    -0.5755,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "af01ef29-2a77-2bf1-52da-171985e6a199"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c61548cd-6074-b0e7-e0bd-2a14673596fc",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Cyan.008"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.4,
+                    -0.8649,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "af01ef29-2a77-2bf1-52da-171985e6a199"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5cc5a173-d9f0-9b00-dcdb-549fe3fc685d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Cyan.009"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.4,
+                    -1.1543,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "af01ef29-2a77-2bf1-52da-171985e6a199"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ce952324-ddcb-0ba2-037a-415d92071018",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Cyan.010"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.4,
+                    -1.4436,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "af01ef29-2a77-2bf1-52da-171985e6a199"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f5509082-e695-6cc0-45f4-764fa552e434",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Green.001"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.3999,
+                    1.1606,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "fb1a13dd-c4b0-c38f-5209-39299d3b614e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "53b85bb6-a62f-e86a-2498-8ee568078e65",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Green.002"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.3999,
+                    0.8712,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "fb1a13dd-c4b0-c38f-5209-39299d3b614e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5f58b0d5-6645-5889-d5fa-a318e765e6a2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Green.003"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.3999,
+                    0.5819,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "fb1a13dd-c4b0-c38f-5209-39299d3b614e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e36dc3fc-f972-5a91-a55d-615e2b25a584",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Green.004"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.3999,
+                    0.2925,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "fb1a13dd-c4b0-c38f-5209-39299d3b614e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9ff180b7-b66e-72ec-6874-c0db194444cb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Green.005"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.3999,
+                    0.0031,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "fb1a13dd-c4b0-c38f-5209-39299d3b614e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "628dc186-bf3e-a048-889c-e0e3ab320ac2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Green.006"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.3999,
+                    -0.2862,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "fb1a13dd-c4b0-c38f-5209-39299d3b614e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f2597678-9ac9-cae8-bb2c-85c5fa2c133f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Green.007"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.3999,
+                    -0.5755,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "fb1a13dd-c4b0-c38f-5209-39299d3b614e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2cb07811-154a-e73c-70c8-7e2ad848f48e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Green.008"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.3999,
+                    -0.8649,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "fb1a13dd-c4b0-c38f-5209-39299d3b614e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "cb3796a4-06b9-c2f1-90ba-5734efe00ecc",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Green.009"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.3999,
+                    -1.1543,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "fb1a13dd-c4b0-c38f-5209-39299d3b614e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6f6a2ae7-27fd-d25b-25a7-c79707e0a6df",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Green.010"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.3999,
+                    -1.4436,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "fb1a13dd-c4b0-c38f-5209-39299d3b614e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "832af121-bd6e-ec03-23aa-3c97343c1062",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Purple.001"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.5999,
+                    1.1606,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4d06f615-3400-d6f6-bcb9-3f0b93155e37"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "bff7d559-de2b-852b-b77b-2d6e10b185ba",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Purple.002"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.5999,
+                    0.8712,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4d06f615-3400-d6f6-bcb9-3f0b93155e37"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "03a0e555-9ce2-46c4-d265-55a414ad6fc1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Purple.003"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.5999,
+                    0.5819,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4d06f615-3400-d6f6-bcb9-3f0b93155e37"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5258a86a-9850-c453-a434-6088b21161eb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Purple.004"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.5999,
+                    0.2925,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4d06f615-3400-d6f6-bcb9-3f0b93155e37"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4de91d20-2913-6f0e-5642-5d978b5b37c4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Purple.005"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.5999,
+                    0.0031,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4d06f615-3400-d6f6-bcb9-3f0b93155e37"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1456eb13-89a0-75f2-b662-1e270b25f58c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Purple.006"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.5999,
+                    -0.2862,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4d06f615-3400-d6f6-bcb9-3f0b93155e37"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5ab13890-51b3-4fca-e448-7387a6c5c513",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Purple.007"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.5999,
+                    -0.5755,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4d06f615-3400-d6f6-bcb9-3f0b93155e37"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8747a908-e947-3e40-5820-02e993643bd1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Purple.008"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.5999,
+                    -0.8649,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4d06f615-3400-d6f6-bcb9-3f0b93155e37"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "10f55c4a-a5c8-5f3a-045b-7a2142909ff4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Purple.009"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.5999,
+                    -1.1543,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4d06f615-3400-d6f6-bcb9-3f0b93155e37"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f7119b6b-d79c-58a9-01bb-8c3b66b00274",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Purple.010"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.5999,
+                    -1.4436,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4d06f615-3400-d6f6-bcb9-3f0b93155e37"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0617940a-0eb7-150d-756f-ee103fbe9147",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Red.001"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.1999,
+                    1.1606,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "bcd388ea-ce05-c33c-15aa-2ec0c797652d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5772bd8b-ac16-2506-8bb0-564166f23886",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Red.002"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.1999,
+                    0.8712,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "bcd388ea-ce05-c33c-15aa-2ec0c797652d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b8e10ad1-5725-f1d3-68d0-6a2def825de3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Red.003"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.1999,
+                    0.5819,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "bcd388ea-ce05-c33c-15aa-2ec0c797652d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "70594a4a-6730-cc5e-3be3-dfb90b805ad2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Red.004"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.1999,
+                    0.2925,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "bcd388ea-ce05-c33c-15aa-2ec0c797652d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d792e40f-cded-c136-9b89-82dad40ac2cb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Red.005"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.1999,
+                    0.0031,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "bcd388ea-ce05-c33c-15aa-2ec0c797652d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4f633a7d-ec26-6c9c-5666-deaae33d2bc4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Red.006"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.1999,
+                    -0.2862,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "bcd388ea-ce05-c33c-15aa-2ec0c797652d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a5bb7381-7cb3-8a95-e670-e79dea457425",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Red.007"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.1999,
+                    -0.5755,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "bcd388ea-ce05-c33c-15aa-2ec0c797652d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "48277ada-8368-651c-ad31-e935c83aee9b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Red.008"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.1999,
+                    -0.8649,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "bcd388ea-ce05-c33c-15aa-2ec0c797652d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4dc9c0f9-bb98-01ed-9c02-f64c728ae9e9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Red.009"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.1999,
+                    -1.1543,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "bcd388ea-ce05-c33c-15aa-2ec0c797652d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f08c9c59-b2c3-f4c5-48ae-cae1301a2294",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Red.010"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.1999,
+                    -1.4436,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "bcd388ea-ce05-c33c-15aa-2ec0c797652d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "36c1944a-b588-985b-413b-5f7f25ccf1d1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Yellow.001"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.9999,
+                    1.1606,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e22484f7-7187-0da9-45f8-8b5f9960585a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a24db22e-967a-6cc4-5e3f-5cc6df098d02",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Yellow.002"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.9999,
+                    0.8712,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e22484f7-7187-0da9-45f8-8b5f9960585a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "857134f0-5c65-904e-604c-904578ea6415",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Yellow.003"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.9999,
+                    0.5819,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e22484f7-7187-0da9-45f8-8b5f9960585a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "695d1381-168e-437d-98c5-82ee436898d7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Yellow.004"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.9999,
+                    0.2925,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e22484f7-7187-0da9-45f8-8b5f9960585a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6bc1514f-7152-ec82-b017-c78f15fda91a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Yellow.005"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.9999,
+                    0.0031,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e22484f7-7187-0da9-45f8-8b5f9960585a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9b90b7f5-2aa0-681d-9dc3-fb371836555d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Yellow.006"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.9999,
+                    -0.2862,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e22484f7-7187-0da9-45f8-8b5f9960585a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5353ba91-a8c4-324f-7411-de1890e1d3d3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Yellow.007"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.9999,
+                    -0.5755,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e22484f7-7187-0da9-45f8-8b5f9960585a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0dc4d6ee-e800-4ad7-3b4a-5d0bcc7bc488",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Yellow.008"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.9999,
+                    -0.8649,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e22484f7-7187-0da9-45f8-8b5f9960585a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3c954f74-aa06-c2c0-d524-d893814395be",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Yellow.009"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.9999,
+                    -1.1543,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e22484f7-7187-0da9-45f8-8b5f9960585a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "24318f1c-f08a-315b-ca5d-da92078a5f94",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Yellow.010"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.9999,
+                    -1.4436,
+                    0.1
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e22484f7-7187-0da9-45f8-8b5f9960585a"
+            }
+        },
+        {
+            "typeGuid": "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e",
+            "instanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    3.2569,
+                    4.0131,
+                    2.9937
+                ],
+                "rotation": [
+                    -45.0121,
+                    0.0,
+                    0.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                    "f141b823-5844-4fbc-b106-0635ff52199c"
+                ]
+            },
+            "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e": {
+                "color": "#fdfdfd00",
+                "cascades": 4,
+                "intensity": 10.0,
+                "cascade_distances": [
+                    6.0,
+                    12.0,
+                    32.0,
+                    60.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "mask": [
+                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                    ]
                 },
-		{
-                            "typeGuid": "88a0cdbb-2826-46e3-b372-2a5154eacb61",
-                            "instanceGuid": "15bb76c4-ba4e-0bee-435c-2994122ceb37",
-                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                                "position": [
-                                    2.4951,
-                                    0.0,
-                                    0.0
-                                ]
-                            },
-                            "88a0cdbb-2826-46e3-b372-2a5154eacb61": {
-                                "asset": "d66df706-8b67-4cbf-8495-0342b240e297"
-                            },
-                            "data_components": [
-                                {
-                                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
-                                    "mask": [
-                                        "997e9c4d-d494-4a6e-bb6c-620ced5fabde"
-                                    ]
-                                },
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "New Spawn Point"
-                                }
-                            ]
-                        },
-		{
-			"typeGuid": "bb15f0a1-1644-44b2-9f6c-4c09ec7c7370",
-			"instanceGuid": "74a67a5f-03bf-8d9f-dcac-256a6f82353c",
-			"de8f8da2-d37f-41da-bc6e-580435fe605f": {
-				"position": [
-					3.0755,
-					0.0,
-					0.0
-				]
-			},
-			"ac11f104-0d79-4ecf-bae5-dbbbb344ad19": {
-				"type": 0,
-				"layer": 3,
-				"body_flags": 1,
-				"maximumAngularVelocity": 0.0
-			},
-			"183d677a-b427-4b1d-a276-97b3e6681304": {
-				"mask": [
-					"d6a09c51-8ccf-416e-8154-66f9404d2a44"
-				]
-			},
-			"data_components": [{
-					"typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-					"templateInstanceGuid": "74a67a5f-03bf-8d9f-dcac-256a6f82353c"
-				},
-				{
-					"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-					"name": "New Restart Game Area"
-				}
-			],
-			"children": [{
-				"typeGuid": "e81f4e62-fee0-4182-9c1a-a47c053b813f",
-				"instanceGuid": "439c9404-e6c5-22d8-80f5-6bc69e2a0f57",
-				"10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-					"physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-				},
-				"e81f4e62-fee0-4182-9c1a-a47c053b813f": {
-					"half_extent": [
-						0.5
-					]
-				},
-				"data_components": [{
-						"typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-						"templateInstanceGuid": "439c9404-e6c5-22d8-80f5-6bc69e2a0f57"
-					},
-					{
-						"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-						"name": "New Box Collider"
-					}
-				]
-			}]
-		},
-		{
-			"typeGuid": "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e",
-			"de8f8da2-d37f-41da-bc6e-580435fe605f": {
-				"position": [
-					3.2569,
-					4.0131,
-					2.9937
-				],
-				"rotation": [
-					-44.9634,
-					0.0,
-					0.0
-				]
-			},
-			"9f750482-b822-4d4b-be6a-9c135c614328": {
-				"stages": [
-					"dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
-					"f141b823-5844-4fbc-b106-0635ff52199c"
-				]
-			},
-			"8f32c5fc-bac8-4d50-97df-bdf0be0ad32e": {
-				"color": "#fdfdfd00",
-				"cascades": 4,
-				"cascade_distances": [
-					6.0,
-					12.0,
-					32.0,
-					60.0
-				]
-			},
-			"data_components": [{
-					"typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
-					"mask": [
-						"13ca71b8-d868-4f7c-a0bb-c7585db11327"
-					]
-				},
-				{
-					"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-					"name": "Directional Light"
-				}
-			]
-		},
-		{
-			"typeGuid": "7be15c72-f784-4f5e-b895-7cc2fbef6355",
-			"de8f8da2-d37f-41da-bc6e-580435fe605f": {
-				"position": [
-					-25.1403,
-					55.686,
-					11.3044
-				],
-				"rotation": [
-					-44.9634,
-					0.0,
-					0.0
-				]
-			},
-			"9f750482-b822-4d4b-be6a-9c135c614328": {
-				"stages": [
-					"dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
-					"f141b823-5844-4fbc-b106-0635ff52199c"
-				]
-			},
-			"7be15c72-f784-4f5e-b895-7cc2fbef6355": {
-				"radius": 40.0,
-				"irradiance": "d54d7a2b-3923-44a0-9de4-d71b080f5414",
-				"brdf": "2bce97e5-0497-4bd7-87c8-7f6928e8fe37",
-				"prefiltered": "699684be-374e-41fc-b502-bdbedbcb302d"
-			},
-			"data_components": [{
-					"typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
-					"mask": [
-						"13ca71b8-d868-4f7c-a0bb-c7585db11327"
-					]
-				},
-				{
-					"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-					"name": "Environment Light",
-					"flags": 2
-				}
-			]
-		},
-		{
-			"typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-			"de8f8da2-d37f-41da-bc6e-580435fe605f": {
-				"scale": [
-					5.0
-				]
-			},
-			"9f750482-b822-4d4b-be6a-9c135c614328": {
-				"stages": [
-					"d3b37153-2dce-4574-a8f1-f118df0e8e30"
-				]
-			},
-			"de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-				"mesh": "540e608c-9479-123a-f12e-3cf1b42de797",
-				"material_instance": "61327e65-3e13-4c49-bdac-3c9e90cf4ff1"
-			},
-			"data_components": [{
-					"typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
-					"mask": [
-						"13ca71b8-d868-4f7c-a0bb-c7585db11327"
-					]
-				},
-				{
-					"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-					"name": "Skysphere"
-				}
-			]
-		},
-		{
-			"typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-			"0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-				"scene": "a5f4d0b3-d50b-49e3-bd97-401fb874c2a5"
-			},
-			"data_components": [
-				{
-					"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-					"name": "Yellow Brick"
-				}
-			]
-		}
-	],
-	"default_camera": {
-		"position": [
-			4.0743,
-			0.76,
-			10.9782
-		],
-		"rotation": [
-			-74.6271,
-			-0.0,
-			89.8133
-		],
-		"fieldOfView": 60.0,
-		"nearPlane": 0.001,
-		"farPlane": 128.0
-	},
-	"grid": {}
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Directional Light"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
+                }
+            ]
+        },
+        {
+            "typeGuid": "7be15c72-f784-4f5e-b895-7cc2fbef6355",
+            "instanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -25.1403,
+                    55.686,
+                    11.3044
+                ],
+                "rotation": [
+                    -45.0121,
+                    0.0,
+                    0.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                    "f141b823-5844-4fbc-b106-0635ff52199c"
+                ]
+            },
+            "7be15c72-f784-4f5e-b895-7cc2fbef6355": {
+                "radius": 40.0,
+                "irradiance": "d9fa4ff1-8968-23db-8e67-77642cb4d88e",
+                "prefiltered": "3ab745aa-6a7d-608d-321a-60e00705f78f"
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "mask": [
+                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                    ]
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Environment Light",
+                    "flags": 2
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
+                }
+            ]
+        },
+        {
+            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+            "instanceGuid": "f695b7d2-b906-4085-5b54-71c0ed7599b6",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "scale": [
+                    100.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
+                ]
+            },
+            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                "mesh": "540e608c-9479-123a-f12e-3cf1b42de797",
+                "material_instance": "5a3f18e7-4fe4-48d0-b937-e1ba7c24999b"
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "mask": [
+                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                    ]
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skysphere"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "f695b7d2-b906-4085-5b54-71c0ed7599b6"
+                }
+            ]
+        }
+    ],
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672"
 }
