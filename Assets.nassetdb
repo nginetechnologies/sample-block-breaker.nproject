@@ -8,7 +8,7 @@
             "5f1de2fb-690d-4f75-bbc3-b5e83a5d08d9"
         ]
     },
-    "bc14c98f-f780-4219-8ef1-ae756cb57ff5": {
+    "309055bc-4216-49d1-9de3-7b43adaec6e7": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
         "path": "Assets/Block Breaker.scene.nasset"
@@ -19,6 +19,7 @@
     },
     "guid": "bdbfa6df-5289-7aa9-e5a4-fa602ef03c1b",
     "imported_assets": [
+        "309055bc-4216-49d1-9de3-7b43adaec6e7",
         "5a3f18e7-4fe4-48d0-b937-e1ba7c24999b",
         "d9fa4ff1-8968-23db-8e67-77642cb4d88e",
         "3ab745aa-6a7d-608d-321a-60e00705f78f",
